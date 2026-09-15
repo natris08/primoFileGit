@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\natal\OneDrive\Desktop\Sistemi Operativi\sisop_coding\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-3983643492.index
-4114054694.index
